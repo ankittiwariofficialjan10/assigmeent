@@ -1,0 +1,5 @@
+1.Install the depedencies from requirement.txt
+2.Run create_table.py (to create a database and table required)
+3.Create a folder name transaction_files outside Current working directory(CWD) to store the transaction files.
+4.Run app.py
+5.Run test_database.py to check the results stored in the database on the console
